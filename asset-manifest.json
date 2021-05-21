@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Food-Recipe-React/static/css/main.1b44cfb8.chunk.css",
-    "main.js": "/Food-Recipe-React/static/js/main.c8a88ad5.chunk.js",
-    "main.js.map": "/Food-Recipe-React/static/js/main.c8a88ad5.chunk.js.map",
+    "main.js": "/Food-Recipe-React/static/js/main.9dd49a1b.chunk.js",
+    "main.js.map": "/Food-Recipe-React/static/js/main.9dd49a1b.chunk.js.map",
     "runtime-main.js": "/Food-Recipe-React/static/js/runtime-main.c224b956.js",
     "runtime-main.js.map": "/Food-Recipe-React/static/js/runtime-main.c224b956.js.map",
     "static/js/2.25caf4f6.chunk.js": "/Food-Recipe-React/static/js/2.25caf4f6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c224b956.js",
     "static/js/2.25caf4f6.chunk.js",
     "static/css/main.1b44cfb8.chunk.css",
-    "static/js/main.c8a88ad5.chunk.js"
+    "static/js/main.9dd49a1b.chunk.js"
   ]
 }
